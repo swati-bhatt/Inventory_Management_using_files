@@ -1,0 +1,4 @@
+1,dairy milk,20,100
+2,milky bar,10,10
+3,5 star,15,21
+4,kit kat,20,50
